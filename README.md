@@ -11,28 +11,25 @@
 ---
 
 ### 🌟 À propos
-- 70% automatisation • 30% tests manuels — **orienté business & UX**
-- Solide expérience en **Playwright, Selenium, Postman, Robot Framework, Python, JavaScript/TypeScript**
-- Conception et exécution de **tests UI/API**, BDD, CI/CD, et **Page Object Model**
-- Collaboration agile, **integration continue** et **Test-Driven Development**
-- Pont entre les équipes **métier** et **technique** pour livrer une qualité mesurable
-
-> **Ma devise :** La qualité ne consiste pas seulement à trouver des bugs — c'est construire la **confiance** dans ce que l'on livre.
+- Expérience en **Playwright, Selenium, Postman, Python**
+- Conception et exécution de **tests UI/API**, BDD, et **Page Object Model**
 
 ---
 
 ### 🚀 Projets d’automatisation
 
 #### UI & E2E Testing
-- [automationExercise-playwright](https://github.com/QARoronoa/automationExercise-playwright)
-- [automationExercise-playwright-gherkin](https://github.com/QARoronoa/automationExercise-playwright-gherkin)
+- [automationExercice-playwright](https://github.com/QARoronoa/automationExercice-playwright)
+- [automationExercice-playwright-gherkin](https://github.com/QARoronoa/automationExercice-playwright-gherkin)
 - [myShop-playwright](https://github.com/QARoronoa/myShop-playwright)
 - [myShop-playwright-bdd](https://github.com/QARoronoa/myShop-playwright-bdd)
+- [orangeHRM-playwright](https://github.com/QARoronoa/orangeHRM-playwright)
 - [orangeHRM](https://github.com/QARoronoa/orangeHRM)
+- [sauceDemo2025-Appium](https://github.com/QARoronoa/sauceDemo2025-Appium)
+- [swaglabs_Selenium](https://github.com/QARoronoa/swaglabs_Selenium)
+- [swaglabs_Appium](https://github.com/QARoronoa/swaglabs_Appium)
 
 #### API & Data Testing
-- [swaglabs_Selenium](https://github.com/QARoronoa/swaglabs_Selenium)
-- [Postman API Collections](#)
 
 ---
 
@@ -61,10 +58,8 @@
 ---
 
 ### 🎯 Ce que j’apporte
-- Automatisation **fiable et maintenable** (POM, fixtures, data builders)
-- Pipelines **CI/CD** rapides (GitHub Actions) avec reporting Allure
-- **Couverture API + UI** pour sécuriser les parcours critiques
-- **Analyses** et dashboards pour suivre la qualité et la dette de test
+- Automatisation **fiable et maintenable** (POM, fixtures)
+- Reporting Allure
 
 ---
 

@@ -1,8 +1,8 @@
 
 
 <p align="center">
-  <img src="https://github.com/QARoronoa/QARoronoa/blob/main/qa_banner.png?raw=true" 
-       alt="QA Engineer banner" width="100%" />
+  <img [src="https://github.com/QARoronoa/QARoronoa/blob/main/qa_banner.png?raw=true" 
+       alt="QA Engineer banner" width="100%"](https://unsplash.com/fr/photos/lieu-de-travail-des-informaticiens-contemporains-avec-trois-ordinateurs-debout-sur-le-bureau-dans-un-grand-bureau-en-openspace-uqx6IiVp18E) />
 </p>
 
 <p align="center">

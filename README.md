@@ -1,9 +1,12 @@
 
 
 <p align="center">
-  <img [src="https://github.com/QARoronoa/QARoronoa/blob/main/qa_banner.png?raw=true" 
-       alt="QA Engineer banner" width="100%"](https://unsplash.com/fr/photos/lieu-de-travail-des-informaticiens-contemporains-avec-trois-ordinateurs-debout-sur-le-bureau-dans-un-grand-bureau-en-openspace-uqx6IiVp18E) />
+  <img src="https://images.unsplash.com/photo-1616628188505-9a118fd0b8ec?q=80&w=1200&auto=format&fit=crop" 
+       alt="QA Engineer workspace banner" 
+       width="100%" 
+       style="border-radius: 10px;" />
 </p>
+
 
 <p align="center">
   <b> 👋 Bonjour, je suis Issa Kamara — **QA Engineer**</b>

@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/QARoronoa/QARoronoa/blob/main/qa_banner.png?raw=true" 
-       alt="Issa Kamara QA Engineer" width="100%" />
+       alt="QA Engineer banner" width="100%" />
 </p>
 
 <p align="center">

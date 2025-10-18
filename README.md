@@ -11,26 +11,54 @@
 ---
 
 ### 🌟 À propos
+- Plus de **4 ans d’expérience** en tests **manuels et automatisés**
 - Expérience en **Playwright, Selenium, Postman, Python**
-- Conception et exécution de **tests UI/API**, BDD, et **Page Object Model**
+- Mise en place de frameworks **BDD & classiques** (Cucumber, Pytest, POM)
+- Collaboration Agile / Scrum avec équipes métier et technique
 
 ---
 
 ### 🚀 Projets d’automatisation
 
-#### UI & E2E Testing
+### 🧩 Playwright — Frameworks Classiques
+Tests end-to-end rapides et robustes avec **Page Object Model**  
+➡️ Focus : UI testing, assertions visuelles, fiabilité cross-browser
+
 - [automationExercice-playwright](https://github.com/QARoronoa/automationExercice-playwright)
-- [automationExercice-playwright-gherkin](https://github.com/QARoronoa/automationExercice-playwright-gherkin)
 - [myShop-playwright](https://github.com/QARoronoa/myShop-playwright)
-- [myShop-playwright-bdd](https://github.com/QARoronoa/myShop-playwright-bdd)
 - [orangeHRM-playwright](https://github.com/QARoronoa/orangeHRM-playwright)
-- [orangeHRM](https://github.com/QARoronoa/orangeHRM)
-- [sauceDemo2025-Appium](https://github.com/QARoronoa/sauceDemo2025-Appium)
+
+---
+
+### 🧠 Playwright — Méthodologie BDD (Gherkin)
+Scénarios lisibles en langage naturel avec **Cucumber/Gherkin**  
+➡️ Objectif : collaboration claire entre métier et technique
+
+- [automationExercice-playwright-gherkin](https://github.com/QARoronoa/automationExercice-playwright-gherkin)
+- [myShop-playwright-bdd](https://github.com/QARoronoa/myShop-playwright-bdd)
+
+---
+
+### ⚙️ Selenium — Frameworks Classiques
+Tests orientés navigateur, maintenables et structurés via **Page Object Model**
+
 - [swaglabs_Selenium](https://github.com/QARoronoa/swaglabs_Selenium)
+- [orangeHRM](https://github.com/QARoronoa/orangeHRM)
+
+---
+
+### 📱 Appium — Tests Mobiles
+Automatisation d’applications **Android/iOS** via Appium et intégration continue
+
 - [swaglabs_Appium](https://github.com/QARoronoa/swaglabs_Appium)
+- [sauceDemo2025-Appium](https://github.com/QARoronoa/sauceDemo2025-Appium)
 
-#### API & Data Testing
+---
 
+### 🧪 API & Data Testing
+Validation de **flux API REST** et parsing de données
+
+- [Postman Collections](#)
 ---
 
 ### 🧰 Tech Stack
@@ -47,12 +75,8 @@
 <p>
   <img alt="Playwright" src="https://img.shields.io/badge/Playwright-45ba4b?logo=playwright&logoColor=white"> 
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white"> 
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white"> 
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"> 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> 
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"> 
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 </p>
 
 ---
@@ -75,6 +99,5 @@
 - Ouvert aux missions **freelance** / **CDI**
 
 ### 📬 Contact
-- ✉️ **Email :** ton.email@exemple.com
-- 💼 **LinkedIn :** [linkedin.com/in/ton-profil](#)
+- 💼 **LinkedIn :** [www.linkedin.com/in/issa-kamara-713520166](#)
 - 🧪 **Playground QA :** [github.com/QARoronoa](https://github.com/QARoronoa)

@@ -1,11 +1,11 @@
-# 👋 Bonjour, je suis Issa Kamara — **QA Engineer**
+
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1200&auto=format&fit=crop" alt="banner" width="100%"/>
 </p>
 
 <p align="center">
-  <b>Playwright</b> | <b>Testing avec élégance & précision</b> | <b>Agile</b> | <b>Quality Assurance Playground</b>
+  <b># 👋 Bonjour, je suis Issa Kamara — **QA Engineer**</b>
 </p>
 
 ---

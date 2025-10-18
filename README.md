@@ -1,12 +1,9 @@
 
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1616628188505-9a118fd0b8ec?ixlib=rb-4.0.3&ixid=M3w5MTMyfDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&q=80&w=1200&auto=format&fit=crop" 
+  <img src="https://images.unsplash.com/photo-1593642634315-48f5414c3ad9?q=80&w=1200&auto=format&fit=crop" 
        alt="QA Engineer workspace" width="100%" />
 </p>
-
-
-
 
 <p align="center">
   <b> 👋 Bonjour, je suis Issa Kamara — **QA Engineer**</b>

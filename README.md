@@ -1,7 +1,8 @@
 
 
 <p align="center">
-   <img src="https://files.oaiusercontent.com/file_00000000cbe8620a837f900bc20a79c3" alt="Issa Kamara QA Engineer" width="100%" />
+  <img src="https://github.com/QARoronoa/QARoronoa/blob/main/qa_banner.png?raw=true" 
+       alt="Issa Kamara QA Engineer" width="100%" />
 </p>
 
 <p align="center">

@@ -1,11 +1,11 @@
 
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?q=80&w=1200&auto=format&fit=crop" alt="banner" width="100%"/>
+  <img src="https://files.oaiusercontent.com/file_00000000cbe8620a837f900bc20a79c3" alt="Issa Kamara QA Engineer" width="100%" />
 </p>
 
 <p align="center">
-  <b># 👋 Bonjour, je suis Issa Kamara — **QA Engineer**</b>
+  <b> 👋 Bonjour, je suis Issa Kamara — **QA Engineer**</b>
 </p>
 
 ---

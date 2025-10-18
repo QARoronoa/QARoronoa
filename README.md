@@ -1,11 +1,5 @@
 
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1616628188505-9a118fd0b8ec?q=80&w=1200&auto=format&fit=crop" 
-       alt="QA Engineer workspace banner" 
-       width="100%" 
-       style="border-radius: 10px;" />
-</p>
 
 
 <p align="center">

@@ -27,7 +27,7 @@ Tests end-to-end rapides et robustes avec **Page Object Model**
 
 - [automationExercice-playwright](https://github.com/QARoronoa/automationExercice-playwright)
 - [myShop-playwright](https://github.com/QARoronoa/myShop-playwright)
-- [orangeHRM-playwright](https://github.com/QARoronoa/orangeHRM-playwright)
+- [orangeHRM](https://github.com/QARoronoa/orangeHRM)
 
 ---
 
@@ -44,7 +44,6 @@ Scénarios lisibles en langage naturel avec **Cucumber/Gherkin**
 Tests orientés navigateur, maintenables et structurés via **Page Object Model**
 
 - [swaglabs_Selenium](https://github.com/QARoronoa/swaglabs_Selenium)
-- [orangeHRM](https://github.com/QARoronoa/orangeHRM)
 
 ---
 

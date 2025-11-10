@@ -48,6 +48,13 @@ Tests orientés navigateur, maintenables et structurés via **Page Object Model*
 
 ---
 
+### ⚙️ Selenium  — Méthodologie BDD (Gherkin)
+Scénarios lisibles en langage naturel avec **Cucumber/Gherkin**  
+
+- [Demo Web Shop_Selenium](https://github.com/QARoronoa/DemoWebShop_Selenium)
+
+---
+
 ### 📱 Appium — Tests Mobiles
 Automatisation d’applications **Android/iOS** via Appium et intégration continue
 

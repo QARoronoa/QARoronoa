@@ -63,10 +63,10 @@ Automatisation d’applications **Android/iOS** via Appium et intégration conti
 
 ---
 
-### 🧪 API & Data Testing
-Validation de **flux API REST** et parsing de données
+### 🧪 Tests API 
+Validation de **flux API REST** 
 
-- [Postman Collections](#)
+- [Swagger Petstore](#)
 ---
 
 ### 🧰 Tech Stack

@@ -66,7 +66,7 @@ Automatisation d’applications **Android/iOS** via Appium et intégration conti
 ### 🧪 Tests API 
 Validation de **flux API REST** 
 
-- [Swagger Petstore](#)
+- [Swagger Petstore](https://github.com/QARoronoa/Swagger_Petstore_api)
 ---
 
 ### 🧰 Tech Stack

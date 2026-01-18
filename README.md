@@ -28,6 +28,7 @@ Tests end-to-end rapides et robustes avec **Page Object Model**
 - [automationExercice-playwright](https://github.com/QARoronoa/automationExercice-playwright)
 - [myShop-playwright](https://github.com/QARoronoa/myShop-playwright)
 - [orangeHRM](https://github.com/QARoronoa/orangeHRM)
+- [Demo Web Shop](https://github.com/QARoronoa/DemoWebShop_Playwright)
 
 ---
 

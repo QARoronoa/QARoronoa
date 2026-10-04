@@ -46,7 +46,7 @@ Tests orientés navigateur, maintenables et structurés via **Page Object Model*
 
 - [swaglabs_Selenium](https://github.com/QARoronoa/swaglabs_Selenium)
 - [My Shop_Selenium](https://github.com/QARoronoa/myShop_selenium)
-- [Practice Software](https://practicesoftwaretesting.com/)
+- [Practice Software](https://github.com/QARoronoa/Software-Testing.git)
 
 ---
 

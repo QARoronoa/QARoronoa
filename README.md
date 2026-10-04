@@ -45,7 +45,8 @@ Scénarios lisibles en langage naturel avec **Cucumber/Gherkin**
 Tests orientés navigateur, maintenables et structurés via **Page Object Model**
 
 - [swaglabs_Selenium](https://github.com/QARoronoa/swaglabs_Selenium)
-- [My Shop_Selenium]( https://github.com/QARoronoa/myShop_selenium)
+- [My Shop_Selenium](https://github.com/QARoronoa/myShop_selenium)
+- [Practice Software](https://practicesoftwaretesting.com/)
 
 ---
 
